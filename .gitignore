@@ -1,0 +1,15 @@
+# virtual environments
+aichatbot/
+venv/
+.env
+
+# python cache
+__pycache__/
+*.pyc
+
+# streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
